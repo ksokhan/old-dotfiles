@@ -1,0 +1,14 @@
+[user]
+	name = Konstantin Sokhan
+	email = git@ksokhan.com
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+[color]
+    ui = true
+[core]
+    editor = vim
+[help]
+    autocorrect = 1

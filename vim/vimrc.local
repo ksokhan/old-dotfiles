@@ -1,0 +1,7 @@
+set pastetoggle=<F5>           " pastetoggle (sane indentation on pastes)
+set expandtab
+
+let g:Powerline_symbols = 'fancy'
+set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline\:h14,Menlo\ Regular\:h14
+
+let g:solarized_termcolors = 256
