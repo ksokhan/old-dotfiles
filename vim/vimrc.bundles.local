@@ -1,6 +1,7 @@
 let g:spf13_bundle_groups=['general', 'programming', 'javascript', 'html', 'misc']
 
 Bundle "ervandew/supertab"
+Bundle "ciaranm/detectindent"
 
 Bundle "statianzo/vim-jade"
 Bundle "groenewege/vim-less"

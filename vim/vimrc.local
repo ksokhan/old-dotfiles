@@ -1,6 +1,9 @@
 set pastetoggle=<F5>           " pastetoggle (sane indentation on pastes)
 set expandtab
 
+autocmd BufReadPost * DetectIndent
+:let g:detectindent_preferred_expandtab = 1
+
 let g:Powerline_symbols = 'fancy'
 set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline\:h14,Menlo\ Regular\:h14
 
