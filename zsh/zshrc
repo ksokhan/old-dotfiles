@@ -35,4 +35,7 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-
+__git_files () {
+    _wanted files expl ‘local’ _files
+}
+unsetopt correct_all
