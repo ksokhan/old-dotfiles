@@ -1,4 +1,7 @@
-#
+
+export PATH=/usr/local/Cellar/ruby/1.9.3-p0/bin:/usr/local/sbin:$PATH
+
+
 # Path to your oh-my-zsh configuration.
 ZSH="/Users/Kostia/Dropbox/dotfiles/zsh"
 
