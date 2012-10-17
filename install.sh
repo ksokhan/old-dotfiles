@@ -8,6 +8,7 @@ echo "Installing all vim...\n"
 echo "Installing zsh...\n"
 
 ln -s $DIR/zsh/zshrc ~/.zshrc
+ln -s $DIR/zsh ~/.zsh
 chsh -s /bin/zsh
 
 echo "Installing fonts...\n"
