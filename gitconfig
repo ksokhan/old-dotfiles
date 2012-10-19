@@ -3,7 +3,7 @@
 	email = git@ksokhan.com
 [alias]
     st = status
-    ci = commit
+    com = commit
     co = checkout
     br = branch
 	lg = log --color --graph --pretty=format:'%Cgreen%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
