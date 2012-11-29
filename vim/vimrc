@@ -19,7 +19,7 @@
     " Basics {
         set nocompatible        " must be first line
         set background=light     " Assume a dark background
-		set term=xterm-256color
+		set term=screen-256color
     " }
 
     " Windows Compatible {
